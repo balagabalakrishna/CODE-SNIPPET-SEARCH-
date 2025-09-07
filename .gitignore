@@ -1,0 +1,17 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Streamlit config/secrets
+.streamlit/secrets.toml
+debug_secrets.py
+
+# OS / Editor files
+.DS_Store
+*.log
+
+# Junk files accidentally created
+et --hard*
